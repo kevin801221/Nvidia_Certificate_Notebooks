@@ -1,5 +1,3 @@
-以下是一個完整的 README 範例，加入了 RAG Agents 的相關內容：
-
 Nvidia_Certificate_Notebooks
 
 This repository provides a collection of Jupyter Notebooks tailored for developers aiming to prepare for NVIDIA certification programs. It covers GPU-accelerated workflows, data science, machine learning, and advanced concepts such as Retrieval-Augmented Generation (RAG) Agents, integrating RAPIDS and CUDA Python frameworks.
@@ -88,5 +86,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 	•	CUDA Toolkit
 	•	LangChain for RAG
 	•	NVIDIA Developer Zone
-
-讓這份 README 在描述技術內容與吸引社群參與上保持清晰和吸引力！
